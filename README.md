@@ -1,5 +1,7 @@
 # Antibiotics-Data-Visualization-with-Tableau
 
+
+
 Horizontal bars have been used to visualize the data. There are five variables namely Bacteria, Penicilin, Streptomycin, Neomycin and Gram straining. Bacteria is a nominal variable. Penicilin, Streptomycin, Neomycin are Quantitative ratio variables. Gram Straining is an ordinal variable. The three X axis scales for the three antibiotics Penicilin, Streptomycin and Neomycin are placed adjacent to each other to have a common Y axis.
 
 The X axis represents values of antibiotics Penicilin, Streptomycin and Neomycin. The antibiotic data value is encoded to length. As length is at rank 2 for visual encoding of quantitative variables, it helps in effective visualization. Penicilin values for positively classified bacteria are very small(order of 10-2) compared to that of negatively classified bacteria(order of 102). The values were not expressive on the normal scale. Therefore, all the quantitative (Penicilin, Streptomycin and Neomycin) values are converted to log scale for better expressiveness.
