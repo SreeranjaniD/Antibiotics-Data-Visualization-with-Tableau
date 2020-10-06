@@ -1,6 +1,6 @@
 # Antibiotics-Data-Visualization-with-Tableau
 
-![GitHub Logo](/images/antibiotics_DV_image.jpg)
+![GitHub Logo](/antibiotics_DV_image.jpg)
 
 Horizontal bars have been used to visualize the data. There are five variables namely Bacteria, Penicilin, Streptomycin, Neomycin and Gram straining. Bacteria is a nominal variable. Penicilin, Streptomycin, Neomycin are Quantitative ratio variables. Gram Straining is an ordinal variable. The three X axis scales for the three antibiotics Penicilin, Streptomycin and Neomycin are placed adjacent to each other to have a common Y axis.
 
